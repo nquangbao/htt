@@ -4504,7 +4504,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
             h = !1
         }
     }("undefined" != typeof module && module.exports && "undefined" != typeof global ? global : this || window, "TweenMax");
-var password = ['HẮC TỬ THẦN'];
+var password = ['Hacking Dowload'];
 var index = Math.floor((Math.random() * password.length));
 var password = password[index];
 var characters = [];
@@ -4986,23 +4986,20 @@ function show_login() {
 
 
 var tl = new Array(
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-    " - Cần ý tưởng để viết vào đây....",
-);
-var speed = 2;
+    " - #$root: Application Dowload",
+    " - #$root: Dowload info ID",
+    " - #$root: Socket DDOS ",
+    " - #$root: Python Loading database",
+    " - #$root: import API ",
+    " - #$root: Facebook Dating",
+    " - #$root: 21FC;   21FC;    21FC;    21FC;    21FC;",
+    " - #$root: Dowload data ID From database facebook to client",
+    " - #$root: id => quangbao.cv",
+    " - #$root: password => fuckboy19",
+    " - #$root: Done !!! ",
+    " - #$root: Thanks you verymuch!!!"
+    );
+var speed = Math.floor(Math.random() *3000);
 var index = 0;
 text_pos = 0;
 var str_length = tl[0].length;
